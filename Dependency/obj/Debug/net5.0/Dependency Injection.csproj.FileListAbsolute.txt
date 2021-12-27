@@ -1,0 +1,16 @@
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\bin\Debug\net5.0\Dependency Injection.exe
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\bin\Debug\net5.0\Dependency Injection.deps.json
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\bin\Debug\net5.0\Dependency Injection.runtimeconfig.json
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\bin\Debug\net5.0\Dependency Injection.runtimeconfig.dev.json
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\bin\Debug\net5.0\Dependency Injection.dll
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\bin\Debug\net5.0\ref\Dependency Injection.dll
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\bin\Debug\net5.0\Dependency Injection.pdb
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\obj\Debug\net5.0\Dependency Injection.csproj.AssemblyReference.cache
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\obj\Debug\net5.0\Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\obj\Debug\net5.0\Dependency Injection.AssemblyInfoInputs.cache
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\obj\Debug\net5.0\Dependency Injection.AssemblyInfo.cs
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\obj\Debug\net5.0\Dependency Injection.csproj.CoreCompileInputs.cache
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\obj\Debug\net5.0\Dependency Injection.dll
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\obj\Debug\net5.0\ref\Dependency Injection.dll
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\obj\Debug\net5.0\Dependency Injection.pdb
+C:\Users\Vazhnost\Downloads\Dependency-Injection-master\Dependency Injection\obj\Debug\net5.0\Dependency Injection.genruntimeconfig.cache
